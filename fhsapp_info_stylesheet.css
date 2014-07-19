@@ -1,0 +1,31 @@
+body {
+	background-color: #C0C0C0 
+}
+h1 {
+	color: #990000;
+	text-align: center;
+}
+
+img {
+		float: left;
+		height:100px;
+		width:100px;
+
+	} 
+.classes {
+	background-color:#FFFFFF;
+	text-indent: 50px;
+	list-style-position: inside;
+}
+
+/*how do you make it so the text doesn't overlap with the image*/
+
+.footer {
+	background-color: #FFFFFF;
+	
+}
+
+}
+
+} /*how to make ".background" a footnote*/
+}
